@@ -1,11 +1,14 @@
 ### OCTET: Object-aware Counterfactual Explanations
 
+
 ## Introduction
 This is the official repository for the paper:
 
-[OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380), Mehdi Zemni, Mickaël Chen, Éloi Zablocki, Hédi Ben-Younes, Patrick Pérez, Matthieu Cord
+[OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380), Mehdi Zemni, Mickaël Chen, Éloi Zablocki, Hédi Ben-Younes, Patrick Pérez, Matthieu Cord.
 
 OCTET is a counterfactual explanation method for deep visual classifiers.
+
+It will be presented at CVPR 2023.
 
 ## Installation and preparation
 
